@@ -1,0 +1,68 @@
+/* Response step 2 */
+#navbar .logo {
+float: none;
+text-align: center;
+}
+
+#navbar ul, #navbar ul li {
+  float: none;
+  text-align: center;
+}
+
+/* response step 3 */
+#navbar ul li a {
+  padding: 5px;
+  border-bottom: #444 dotted 1px;
+}
+
+/* change space in showcase */
+#showcase {
+  height:100%;
+}
+
+/* adding some padding for mobile version there was too much space */
+#showcase .showcase-content {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+
+/* response step 5 */
+#home-info .info-img {
+  display: none;
+}
+
+/* response step 6 */
+#home-info .info-content {
+  float:none;
+  width: 100%;
+}
+
+/* response step 7 */
+.box {
+  float:none;
+  width:100%;
+}
+
+/* response step 8 */
+#about-info .info-right,
+#about-info .info-left {
+  float:none;
+  width:100%;
+}
+
+/* center l heading */
+.l-heading {
+  text-align: center;
+}
+
+/* moving ime down */
+#about-info .info-right{
+  margin-top:30px;
+}
+
+/* adding borders on icon for the contact page */
+ #contact-info .box {
+   border-bottom: #444 dotted 1px;
+ }
+
